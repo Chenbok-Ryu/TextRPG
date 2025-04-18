@@ -1,0 +1,14 @@
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\TextRPG_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\TextRPG_1.AssemblyInfoInputs.cache
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\TextRPG_1.AssemblyInfo.cs
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\TextRPG_1.csproj.CoreCompileInputs.cache
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\bin\Debug\net8.0\TextRPG_1.exe
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\bin\Debug\net8.0\TextRPG_1.deps.json
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\bin\Debug\net8.0\TextRPG_1.runtimeconfig.json
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\bin\Debug\net8.0\TextRPG_1.dll
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\bin\Debug\net8.0\TextRPG_1.pdb
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\TextRPG_1.dll
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\refint\TextRPG_1.dll
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\TextRPG_1.pdb
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\TextRPG_1.genruntimeconfig.cache
+E:\Portfolio\C#\TextRPG_1\TextRPG_1\obj\Debug\net8.0\ref\TextRPG_1.dll
